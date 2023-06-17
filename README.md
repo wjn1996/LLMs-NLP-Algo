@@ -1,9 +1,14 @@
 # 大模型 & NLP & 算法 大礼包
 ### 作者信息：
+
 作者：王嘉宁
+
 网址：[https://wjn1996.github.io/](https://wjn1996.github.io/)
+
 CSDN：[https://wjn1996.blog.csdn.net/](https://wjn1996.blog.csdn.net/)
+
 知乎：[https://www.zhihu.com/people/wjn1996](https://www.zhihu.com/people/wjn1996)
+
 GitHub：[https://github.com/wjn1996](https://github.com/wjn1996)
 
 ### 资料信息
