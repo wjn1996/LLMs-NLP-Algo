@@ -10,6 +10,19 @@
 
 <center><img src="./image/overview1.png" width="100%"></center>
 
+资料总览图如下所示：
+
+| 总览图 |
+| -- |
+| <center><img src="./image/overview_all.png" width="50%"></center> |
+
+| 机器学习与深度学习 | NLP | 大语言模型 | 附赠 |
+| -- | -- | -- | -- |
+| <center><img src="./image/overview_mldl.png" width="100%"></center> | <center><img src="./image/overview_nlp.png" width="100%"></center> | <center><img src="./image/overview_llm.png" width="100%"></center> | <center><img src="./image/overview_work.png" width="100%"></center> |
+
+---
+
+
 ### 作者信息：
 
 作者：王嘉宁
@@ -31,7 +44,7 @@ GitHub：[https://github.com/wjn1996](https://github.com/wjn1996)
 
 更新时间：2023年06月26日
 
-价格：【~~原价：¥99.9~~】【好友粉丝价：**¥59.9**】
+价格：【~~原价：¥99.9~~】【特价：**¥59.9**】
 
 > 2023年7月10日24点前购买的，联系作者直接返现¥20，抓紧啦～
 
@@ -51,6 +64,8 @@ GitHub：[https://github.com/wjn1996](https://github.com/wjn1996)
 价格说明：
 - 该资料为作者在硕博期间长达多年知识积累产生的结果，根据其所属价值进行合理地定价；
 - 价格解释权归作者所有。
+<!-- - 好友粉丝价格说明：资料发布初期，所有用户均享受如您在CSDN、知乎、GitHub上是作者的粉丝，则可以享受**¥59.9**优惠价格。
+- 如果您是作者的粉丝，但以原价购买，可凭借个人账号、邮箱和“已关注”的截图联系作者进行差价返现。 -->
 
 服务说明：
 - 已购买的用户将代表同意“版权声明”的内容；
@@ -71,9 +86,9 @@ GitHub：[https://github.com/wjn1996](https://github.com/wjn1996)
 
 该资料购买者只有使用权，不可商用。资料内每个PDF文件都会有作者和购买者的水印以便追踪版权所有者和使用者，因此，请勿将资料和密码分享给他人，或上传至互联网并公开。允许存储在个人网盘，但不允许以链接或密码形式分享。
 
-## 资料阅读
+### 资料阅读
 - 推荐使用vscode进行阅读，方便进行索引、编辑等；
 - 对于doc、ppt、pdf等文件则使用相应工具打开阅读即可；
 
-## 版权声明
+### 版权声明
 请详见[版权声明.md](./%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.md)。
