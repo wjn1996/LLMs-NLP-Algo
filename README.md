@@ -20,10 +20,6 @@
 | -- | -- | -- | -- |
 | <center><img src="./image/overview_mldl.png" width="100%"></center> | <center><img src="./image/overview_nlp.png" width="100%"></center> | <center><img src="./image/overview_llm.png" width="100%"></center> | <center><img src="./image/overview_work.png" width="100%"></center> |
 
-绝大多数知识笔记和文档以markdown格式存储，部分文件保存为pdf、ppt等格式。推荐使用VSCode阅读，整个资料的阅读界面如下所示：
-![](./image/screen1.png)
-![](./image/screen2.png)
-
 ---
 
 
@@ -93,6 +89,11 @@ GitHub：[https://github.com/wjn1996](https://github.com/wjn1996)
 ### 资料阅读
 - 推荐使用vscode进行阅读，方便进行索引、编辑等；
 - 对于doc、ppt、pdf等文件则使用相应工具打开阅读即可；
+
+绝大多数知识笔记和文档以markdown格式存储，部分文件保存为pdf、ppt等格式。推荐使用VSCode阅读，整个资料的阅读界面如下所示：
+![](./image/screen1.png)
+![](./image/screen2.png)
+
 
 ### 版权声明
 请详见[版权声明.md](./%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.md)。
