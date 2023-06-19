@@ -22,6 +22,7 @@
 
 绝大多数知识笔记和文档以markdown格式存储，部分文件保存为pdf、ppt等格式。推荐使用VSCode阅读，整个资料的阅读界面如下所示：
 ![](./image/screen1.png)
+![](./image/screen2.png)
 
 ---
 
