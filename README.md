@@ -2,7 +2,7 @@
 
 目前大模型和ChatGPT的发展迅速，NLP算法的技术更新快速，网上涌现出大量关于大模型、NLP、算法等相关博客、公众号文章以及学术论文。然而，读者能够全面系统的学习这些知识需要花费大量的时间精力去搜索，学习效率低下，不能够适应现在的大模型发展潮流。
 
-因此，博主根据近几年来积累学习和整理的相关知识，以及最近大模型与ChatGPT相关的技术原理，整理了“大模型&NLP&算法大礼包”，呈现给各位读者用户，方便全面系统的掌握NLP的基础知识、算法、大模型等内容。
+因此，**博主根据近几年来积累学习和整理的相关知识，以及最近大模型与ChatGPT相关的技术原理，整理了“大模型&NLP&算法大礼包”**，呈现给各位读者用户，方便全面系统的掌握NLP的基础知识、算法、大模型等内容。
 
 博主整理了共计13个大类知识体系，并汇总了一份完整的电子书，另外附赠大模型/NLP算法工程师求职用的算法题和面经，以及一些工具的使用。
 
@@ -10,13 +10,13 @@
 
 <center><img src="./image/overview1.png" width="100%"></center>
 
-资料总览图如下所示：
+知识层级总览图如下所示：
 
 | 总览图 |
 | -- |
 | <center><img src="./image/overview_all.png" width="50%"></center> |
 
-| 机器学习与深度学习 | NLP | 大语言模型 | 附赠 |
+| 机器学习与深度学习 | NLP | 大规模语言模型 | 附赠 |
 | -- | -- | -- | -- |
 | <center><img src="./image/overview_mldl.png" width="100%"></center> | <center><img src="./image/overview_nlp.png" width="100%"></center> | <center><img src="./image/overview_llm.png" width="100%"></center> | <center><img src="./image/overview_work.png" width="100%"></center> |
 
@@ -45,12 +45,13 @@ GitHub：[https://github.com/wjn1996](https://github.com/wjn1996)
 更新时间：2023年06月26日
 
 价格：【~~原价：¥99.9~~】【特价：**¥59.9**】
-
-> 2023年7月10日24点前购买的，联系作者直接返现¥20，抓紧啦～
+**付款成功后，即可获取全部资料**
 
 | 微信 |支付宝 |
 |--|--|
 | <center><img src="./image/wechat_money.png" width="200"></center> | <center><img src="./image/zhifubao_money.png" width="200"></center> |
+
+> 2023年7月10日24点前购买的，联系作者直接返现¥20，抓紧啦～
 
 购买须知：
 - 请使用微信或支付宝进行购买，购买时一定要添加备注，内容包括：**姓名、邮箱**，方便作者核实。如果备注字数限制邮箱地址填写不下，请加作者微信（微信号：lygwjn）。
@@ -93,7 +94,6 @@ GitHub：[https://github.com/wjn1996](https://github.com/wjn1996)
 绝大多数知识笔记和文档以markdown格式存储，部分文件保存为pdf、ppt等格式。推荐使用VSCode阅读，整个资料的阅读界面如下所示：
 ![](./image/screen1.png)
 ![](./image/screen2.png)
-
 
 ### 版权声明
 请详见[版权声明.md](./%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.md)。
