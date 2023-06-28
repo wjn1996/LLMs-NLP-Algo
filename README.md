@@ -51,7 +51,6 @@ GitHub：[https://github.com/wjn1996](https://github.com/wjn1996)
 |--|--|
 | <center><img src="./image/wechat_money.png" width="200"></center> | <center><img src="./image/zhifubao_money.png" width="200"></center> |
 
-> 2023年7月10日24点前购买的，联系作者直接返现¥20，抓紧啦～
 
 购买须知：
 - 请使用微信或支付宝进行购买，购买时一定要添加备注，内容包括：**姓名、邮箱**，方便作者核实。如果备注字数限制邮箱地址填写不下，请加作者微信（微信号：lygwjn）。
@@ -77,7 +76,6 @@ GitHub：[https://github.com/wjn1996](https://github.com/wjn1996)
 
 
 活动回馈：
-- 2023年7月10日24点前购买者，将返现¥20；
 - 对于已购买的用户，鼓励参与资料内容的补充、纠错等反馈，反馈内容可在群内或邮件形式告知作者，以确保资料能够不断更新和完善。对于存在重大贡献的已购买用户，可享受¥30红包返现（每人只限1次）。
 
 ### 资料解密
